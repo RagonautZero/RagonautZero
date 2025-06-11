@@ -2,7 +2,7 @@
 
 I help teams ship AI outcomes faster, safer, and more cost-effectively—especially in regulated environments.
 
-🔧 I design and deliver:
+I design and deliver:
 - AI-native agents and workflows
 - Replace costly SaaS with tailored open-source stacks
 - Cloud/on-prem LLM deployment, with governance baked in
