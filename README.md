@@ -1,6 +1,6 @@
-# Hi, I'm RagonautZero 👋
+# Hi, I'm RZero 👋
 
-I help teams ship AI outcomes faster, safer, and more cost-effectively—especially in regulated environments.
+I help teams ship AI outcomes faster, safer, and more cost-effectively, especially in regulated environments.
 
 I design and deliver:
 - AI-native agents and workflows
