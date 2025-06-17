@@ -1,4 +1,4 @@
-# Hi, I'm RZero 👋
+# Hi, I'm Rzero 👋
 
 I help teams ship AI outcomes faster, safer, and more cost-effectively, especially in regulated environments.
 
