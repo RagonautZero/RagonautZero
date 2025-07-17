@@ -14,4 +14,4 @@ Engagement models:
 
 Focused on quality, compliance (21 CFR 11, ISO 13485, EU AI Act), and fast ROI.
 
-Learn more 👉 https://czecure.cz
+Learn more 👉 https://czecure.eu
